@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "name": "airhobot-sim",
+  "version": "0.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-keck/airhobot-sim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-keck/airhobot-sim/issues"
+  },
+  "homepage": "https://github.com/j-keck/airhobot-sim#readme",
+  "description": ""
+}
