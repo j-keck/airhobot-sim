@@ -3,7 +3,7 @@
 repo dient zum testen von spielzügen für den [[https://github.com/section77/airhobot][airhobot]].
 
  - derzeit nur einfache gerade pfade und über bande:
-   [[src/Main.purs]]
+   [[src/Main.purs#L154][predict]]
 
 
 ** TODO

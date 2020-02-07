@@ -47,7 +47,7 @@ let
       phases = "buildPhase";
       buildPhase = ''
         mkdir -p $out
-        parcel build --out-dir $out/ ${src}/index.html
+        parcel build --out-dir $out/ --public-url /airhobot-sim ${src}/index.html
       '';
   };
 
